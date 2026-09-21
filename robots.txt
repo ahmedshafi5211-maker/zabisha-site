@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+
+Sitemap: https://ahmedshafi5211-maker.github.io/zabisha-site/sitemap.xml
